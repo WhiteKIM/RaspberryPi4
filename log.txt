@@ -1,0 +1,228 @@
+min_x min_y max_x, max_y
+590 435 728 458
+16 350 770 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+590 435 728 458
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+574 434 712 457
+16 350 770 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 435 718 458
+16 351 770 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 434 718 457
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+585 435 723 458
+16 350 770 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 435 718 458
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 438 718 461
+16 351 770 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+16 351 770 1024
+No Man is int the bed
+min_x min_y max_x, max_y
+585 434 723 457
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 350 762 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 346 762 1019
+No Man is int the bed
+min_x min_y max_x, max_y
+585 435 723 458
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+585 434 723 457
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+585 434 723 457
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 435 718 458
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 435 718 458
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 350 762 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+16 350 770 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+590 435 728 458
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 434 718 457
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 434 718 457
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+585 437 723 460
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+585 437 723 460
+16 350 770 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+16 350 770 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 350 762 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+416 433 554 456
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+590 437 728 460
+16 350 770 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+16 350 770 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 350 762 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+590 435 728 458
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+585 435 723 458
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+16 350 770 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+580 435 718 458
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+16 350 770 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+590 435 728 458
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 435 718 458
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 350 762 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+574 435 712 458
+16 350 770 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+580 435 718 458
+16 351 770 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+590 435 728 458
+16 350 770 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+585 435 723 458
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 350 762 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+580 434 718 457
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+590 435 728 458
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+585 435 723 458
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+428 432 566 455
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+585 435 723 458
+16 348 770 1021
+사람이 안에 잇다
+min_x min_y max_x, max_y
+590 437 728 460
+16 350 770 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+590 435 728 458
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 350 762 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+580 434 718 457
+8 350 762 1023
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 350 762 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+428 433 566 456
+8 351 762 1024
+사람이 안에 잇다
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+8 350 762 1023
+No Man is int the bed
+min_x min_y max_x, max_y
+-100 -100 -100 -100
+16 351 770 1024
+No Man is int the bed
+min_x min_y max_x, max_y
+590 435 728 458
+16 350 770 1023
+사람이 안에 잇다
