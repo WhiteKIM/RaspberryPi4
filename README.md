@@ -1,6 +1,20 @@
-# RaspberryPi4
-사용환경 : RaspberryPi4_64bit
-OS : Rasbian OS 64bit
+# RaspberryPi4 IOT Project
 
-라즈베리파이를 이용한 프로젝트와 그 과정에서 겪었던 문제들에 대한 정보를 나누고 싶습니다.
-아무쪼록 많은 도움이 되길 바랍니다
+ ### Introduce
+ This Project is making the IOT Product to use the RaspberryPi4 and Cam.
+ if person is lie down the bed, IOT will run function ex) Turn off Light
+##
+### environment
+Device : Raspberry Pi4
+OS : Rasbian 64bit
+Cam : Galaxy S3 => I have not any cam, So I used my old phone Using droidcam (Android App) droidcam is replaced phone to webcam 
+##
+###  How to Run
+1. cd (your Project Folder)
+2. source (Project Folder name)-env/bin/activate
+3. python3 p4_object_webcam.py --modeldir=TFLite_model
+
+ ##
+###  reference
+  - tensorflow Lite on Android and Raspberry Pi
+ https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
